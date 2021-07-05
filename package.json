@@ -27,7 +27,7 @@
   "dependencies": {
     "@types/restify-cors-middleware": "^1.0.1",
     "mongodb": "3.4.1",
-    "mongoose": "5.8.7",
+    "mongoose": "5.13.2",
     "mongoose-timestamp": "0.6.0",
     "morgan": "^1.9.1",
     "restify": "8.5.1",
